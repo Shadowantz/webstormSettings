@@ -161,6 +161,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Sort Lines">
+        <Item>
+          <IdeaActionID>linessorter.sort</IdeaActionID>
+          <ShortCut>'⌥⇧L'</ShortCut>
+          <Description>Sort Lines</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Structure">
         <Item>
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
