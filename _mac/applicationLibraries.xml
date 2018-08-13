@@ -12,6 +12,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/typescript-deferred" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/webpack" type="javaScript">
       <CLASSES />
       <SOURCES />
