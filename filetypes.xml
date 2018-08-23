@@ -6,6 +6,7 @@
       <mapping pattern="en-us" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="getText" type="TypeScript" />
+      <mapping pattern="react-i18nify" type="tsconfig" />
     </extensionMap>
   </component>
 </application>
