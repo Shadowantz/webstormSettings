@@ -4,6 +4,7 @@
       <mapping pattern="MenuItem" type="PLAIN_TEXT" />
       <mapping pattern=".sasslintrc" type="PLAIN_TEXT" />
       <mapping pattern="en-us" type="PLAIN_TEXT" />
+      <mapping pattern="EventInfo.ts" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="counterTypes" type="PLAIN_TEXT" />
       <mapping pattern="MatchModel" type="TypeScript" />
