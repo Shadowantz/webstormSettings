@@ -3,9 +3,10 @@
     <extensionMap>
       <mapping pattern=".sasslintrc" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping pattern="MatchModel" type="TypeScript" />
-      <mapping pattern="SportIDTypes.ts" type="TypeScript" />
       <mapping pattern="getText" type="TypeScript" />
+      <mapping pattern="MatchModel" type="TypeScript" />
+      <mapping pattern="EventInfoId" type="TypeScript" />
+      <mapping pattern="SportIDTypes.ts" type="TypeScript" />
       <mapping pattern="EventInfo" type="TypeScript" />
       <mapping pattern="react-i18nify" type="tsconfig" />
     </extensionMap>
