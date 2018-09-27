@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".sasslintrc" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="location-nav" type="TypeScript" />
       <mapping pattern="MatchModel" type="TypeScript" />
       <mapping pattern="EventInfoId" type="TypeScript" />
       <mapping pattern="SportIDTypes.ts" type="TypeScript" />
