@@ -198,7 +198,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>109</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace...">
@@ -297,6 +297,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Unshelve...">
+        <Item>
+          <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
+          <ShortCut>'⇧⌘U'</ShortCut>
+          <Description>Unshelve...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Update Project...">
         <Item>
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
@@ -310,7 +318,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>204</Count>
+          <Count>207</Count>
         </Item>
       </Statistic>
     </option>
