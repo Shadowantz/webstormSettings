@@ -8,8 +8,10 @@
       <mapping pattern="agregator-market-model" type="TypeScript" />
       <mapping pattern="agregator-betting-offer-model.ts" type="TypeScript" />
       <mapping pattern="location-nav" type="TypeScript" />
+      <mapping pattern="match-list-models" type="TypeScript" />
       <mapping pattern="MatchModel" type="TypeScript" />
       <mapping pattern="EventInfoId" type="TypeScript" />
+      <mapping pattern="match-list-models.ts" type="TypeScript" />
       <mapping pattern="SportIDTypes.ts" type="TypeScript" />
       <mapping pattern="getEventPartDefaultUsage.ts" type="TypeScript" />
       <mapping pattern="match-location-model.ts" type="TypeScript" />
