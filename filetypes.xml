@@ -8,18 +8,19 @@
       <mapping pattern="agregator-market-model" type="TypeScript" />
       <mapping pattern="build-match-list-topic" type="TypeScript" />
       <mapping pattern="agregator-betting-offer-model.ts" type="TypeScript" />
+      <mapping pattern="getText" type="TypeScript" />
       <mapping pattern="location-nav" type="TypeScript" />
       <mapping pattern="match-list-models" type="TypeScript" />
       <mapping pattern="MatchModel" type="TypeScript" />
-      <mapping pattern="EventInfoId" type="TypeScript" />
-      <mapping pattern="match-list-models.ts" type="TypeScript" />
       <mapping pattern="apply-updates-for-match-list" type="TypeScript" />
       <mapping pattern="SportIDTypes.ts" type="TypeScript" />
       <mapping pattern="getEventPartDefaultUsage.ts" type="TypeScript" />
       <mapping pattern="match-location-model.ts" type="TypeScript" />
-      <mapping pattern="getText" type="TypeScript" />
+      <mapping pattern="EventInfoId" type="TypeScript" />
       <mapping pattern="EventInfo" type="TypeScript" />
       <mapping pattern="get-country-code" type="TypeScript" />
+      <mapping pattern="agregator-one-of-type-model.ts" type="TypeScript" />
+      <mapping pattern="match-list-models.ts" type="TypeScript" />
       <mapping pattern="markets-header" type="TypeScript JSX" />
       <mapping pattern="react-i18nify" type="tsconfig" />
     </extensionMap>
