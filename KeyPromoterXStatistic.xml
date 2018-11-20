@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1021</Count>
+          <Count>1022</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -334,7 +334,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>232</Count>
+          <Count>233</Count>
         </Item>
       </Statistic>
     </option>
