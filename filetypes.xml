@@ -1,0 +1,37 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="functions" type="AUTO_DETECTED" />
+      <mapping pattern="BlockHoursModal" type="AUTO_DETECTED" />
+      <mapping pattern="utils" type="AUTO_DETECTED" />
+      <mapping pattern="firebaseConnection" type="AUTO_DETECTED" />
+      <mapping pattern="configs" type="AUTO_DETECTED" />
+      <mapping pattern="logsPage" type="AUTO_DETECTED" />
+      <mapping pattern="NewPocPopup" type="AUTO_DETECTED" />
+      <mapping ext="mdx" type="Markdown" />
+      <mapping pattern="nunitoSansFont.scss" type="PLAIN_TEXT" />
+      <mapping pattern="getStoreStateLogic" type="PLAIN_TEXT" />
+      <mapping pattern="NewContractPage" type="PLAIN_TEXT" />
+      <mapping pattern="qq" type="PLAIN_TEXT" />
+      <mapping pattern="images" type="PLAIN_TEXT" />
+      <mapping pattern=".npcrc" type="PLAIN_TEXT" />
+      <mapping pattern="infoSection" type="PLAIN_TEXT" />
+      <mapping pattern="enums" type="PLAIN_TEXT" />
+      <mapping pattern="common" type="PLAIN_TEXT" />
+      <mapping pattern="TABLE_DATA" type="PLAIN_TEXT" />
+      <mapping pattern="NewTimerButton.js" type="PLAIN_TEXT" />
+      <mapping pattern="customHooks" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="txs" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="vmoptions" type="PLAIN_TEXT" />
+      <mapping pattern="qqqq" type="XML" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+    </extensionMap>
+  </component>
+</application>
