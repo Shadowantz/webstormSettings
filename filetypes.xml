@@ -4,6 +4,7 @@
       <mapping pattern="functions" type="AUTO_DETECTED" />
       <mapping pattern="BlockHoursModal" type="AUTO_DETECTED" />
       <mapping pattern="utils" type="AUTO_DETECTED" />
+      <mapping pattern="useHandleTestConnection" type="AUTO_DETECTED" />
       <mapping pattern="firebaseConnection" type="AUTO_DETECTED" />
       <mapping pattern="configs" type="AUTO_DETECTED" />
       <mapping pattern="logsPage" type="AUTO_DETECTED" />
