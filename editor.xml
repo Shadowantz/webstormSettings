@@ -1,5 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="AUTOCOMPLETE_ON_SMART_TYPE_COMPLETION" value="false" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
@@ -19,7 +20,7 @@
         <entry key="SASS" value="true" />
         <entry key="SCSS" value="true" />
         <entry key="Stylus" value="true" />
-        <entry key="TypeScript" value="true" />
+        <entry key="TypeScript" value="false" />
         <entry key="XHTML" value="true" />
         <entry key="XML" value="true" />
         <entry key="yaml" value="true" />
@@ -32,15 +33,13 @@
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="js.type.hints" />
+    <option name="disabledLanguages">
+      <set>
+        <option value="Markdown" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="ts.type.hints" />
     <settingsMapElement>
-      <TypeScript.ts.type.hints>
-        <Settings>
-          <option name="showForFunctions" value="true" />
-          <option name="showForShorthandFunctions" value="true" />
-          <option name="showForVariablesAndFields" value="true" />
-        </Settings>
-      </TypeScript.ts.type.hints>
       <JavaScript.js.type.hints>
         <Settings>
           <option name="showForFunctions" value="true" />
@@ -48,6 +47,12 @@
           <option name="showForVariablesAndFields" value="true" />
         </Settings>
       </JavaScript.js.type.hints>
+      <TypeScript.ts.type.hints>
+        <Settings>
+          <option name="showForFunctions" value="true" />
+          <option name="showForShorthandFunctions" value="true" />
+        </Settings>
+      </TypeScript.ts.type.hints>
     </settingsMapElement>
   </component>
   <component name="JSEditorOptions">
