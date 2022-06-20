@@ -21,6 +21,7 @@
       <mapping pattern="common" type="PLAIN_TEXT" />
       <mapping pattern="TABLE_DATA" type="PLAIN_TEXT" />
       <mapping pattern="NewTimerButton.js" type="PLAIN_TEXT" />
+      <mapping pattern=".env.newbo" type="PLAIN_TEXT" />
       <mapping pattern="customHooks" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="txs" type="PLAIN_TEXT" />
